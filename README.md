@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is a twitter clone with UI similar to the actual twitter page, and handles user posts requests (text and image). Currently, the user is hardcoded into the database. A tweetbox was included in the web app, and real time updates of posts are made whenever the user sends out a new post. The web app is built by React.js, and it is linked to the firebase Database to store user tweet information.
+
 ## Available Scripts
 
 In the project directory, you can run:
